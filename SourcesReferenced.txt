@@ -1,0 +1,5 @@
+https://www.w3schools.com/xml/xml_http.asp
+https://wiki.gentoo.org/wiki/Sysbench
+https://github.com/ssvb/cpuburn-arm/blob/master/cpuburn-a53.S
+https://pypi.org/project/psutil/
+https://gpiozero.readthedocs.io/en/stable/api_internal.html
